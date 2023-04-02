@@ -53,7 +53,7 @@
 
 ## 📋 전체 프로젝트의 구조
 
-<img src="https://velog.velcdn.com/images/5w31892p/post/2d83e8f6-1201-4989-8685-011288fc0414/image.jpg" width="600px">
+![img_1.png](img_1.png)4989-8685-011288fc0414/image.jpg" width="600px">
 
 <br>
 
@@ -104,7 +104,7 @@
 ## 📋 DB ERD
 
 
-<br>
+![img.png](img.png)<br>
 
 ---
 
@@ -122,6 +122,51 @@
 
 ## 📋 API 명세서
 
+- 사용자 API
+
+  [API명세(user)](https://www.notion.so/19cd7481c2b644149183549a687d00e1)
+
+- 어드민 API
+
+  [API명세(Admin)](https://www.notion.so/e14fccf62614423cb455b08c8efcaf5e)
+
+- 상품 API
+
+  [API명세(Product)](https://www.notion.so/81d03bcf86964740bd7f3beb03355ff0)
+
+- 게시판 API
+
+  [API명세(Board)](https://www.notion.so/f3d80159378e4668ba24c2be2dbd2bd1)
+
+- 댓글 API
+
+  [API명세(Comment)](https://www.notion.so/f58cdca565aa410794817c27feeadd1e)
+
+- 이미지 API - multipartfile
+
+  [API명세(Image)](https://www.notion.so/e6753aa4cb754e26b00ec9b397a82305)
+
+- 거래내역 API
+
+  [API명세(Transaction_History)](https://www.notion.so/3f228754250445f9b26ab02ed4e8fea8)
+
+- 관심내역 API
+
+  [API명세(Interest)](https://www.notion.so/9b0e0d3ee4fe442f85b81647f202b246)
+
+- 신고내역 API
+
+  [API명세(Report)](https://www.notion.so/279b491a9a70434faa272589770893d2)
+
+  [API명세(Review)](https://www.notion.so/fedb3776fb9843fbb025598a6fad8cfc)
+
+- 채팅 API
+
+  [API명세(Report)](https://www.notion.so/8b5b4e7faad04f958255f5c2ae5f5416)
+
+- 이메일 인증 API
+
+  [API명세(Report)](https://www.notion.so/4736f2ae235544cba00d24f896593045)
 
 
 
